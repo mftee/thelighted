@@ -1,4 +1,4 @@
-## 🌐 Overview
+## Overview
 
 TheLighted is a cutting-edge SaaS restaurant management platform that combines modern web technologies with blockchain innovation. Built on the Stellar network, it transforms how restaurants engage with customers through intelligent menu recommendations, frictionless crypto payments, and transparent loyalty programs—all while reducing transaction costs and enabling instant cross-border settlements.
 
